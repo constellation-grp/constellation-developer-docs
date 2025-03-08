@@ -12,6 +12,7 @@ nav:
       - Introduction: tungsten/introduction.md
       - Scan&Shop: tungsten/scanshop.md
       - Receipt printer: tungsten/receiptprinter.md
+  - Watson: watson/publicapi.md
 markdown_extensions:
   - admonition
   - attr_list
