@@ -66,6 +66,7 @@ Success:
         {
             "licenceId": "571e924a-fd16-4696-a80a-cf1c84f8a4f2",
             "productId": "SCO",
+            "ownsSince": "1741454719",
             "expires": "never"
         }
     ]
